@@ -52,3 +52,7 @@
 <p align="center">
 🔥 Sempre evoluindo | 🚀 Foco no progresso
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rilderaraujo&color=blue" alt="Profile views"/>
+</p>
