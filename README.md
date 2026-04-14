@@ -29,12 +29,9 @@
 ## 📸 Preview do sistema
 <p align="center">
   <img src="image 1.jpg" width="400"/>
-  <img src="image 2.jpg" width="400"/>
-</p>
-
-<p align="center">
+  <img src="image2.jpg" width="400"/>
   <img src="image 3.jpg" width="400"/>
-</p>
+
 
 ## 🛠️ Tecnologias
 <p align="center">
