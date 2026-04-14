@@ -28,12 +28,12 @@
 
 ## 📸 Preview do sistema
 <p align="center">
-  <img src="file.image/image1.jpg" width="400"/>
-  <img src="file.image/image2.jpg" width="400"/>
+  <img src="file.image/image 1.jpg" width="400"/>
+  <img src="file.image/image 2.jpg" width="400"/>
 </p>
 
 <p align="center">
-  <img src="file.image/image3.jpg" width="400"/>
+  <img src="file.image/image 3.jpg" width="400"/>
 </p>
 
 ## 🛠️ Tecnologias
