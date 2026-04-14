@@ -18,6 +18,24 @@
 
 ---
 
+
+## 📌 Projetos em destaque
+🔹 Sistema Restaurante em C#  
+🔹 Controle Financeiro  
+🔹 Projetos de edição de vídeo  
+
+---
+
+## 📸 Preview do sistema
+<p align="center">
+  <img src="imagens/tela1.png" width="400"/>
+  <img src="imagens/tela2.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="imagens/tela3.png" width="400"/>
+</p>
+
 ## 🛠️ Tecnologias
 <p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
