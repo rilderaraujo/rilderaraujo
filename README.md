@@ -28,12 +28,12 @@
 
 ## 📸 Preview do sistema
 <p align="center">
-  <img src="imagens/tela1.png" width="400"/>
-  <img src="imagens/tela2.png" width="400"/>
+  <img src="imagens/image1.jpg" width="400"/>
+  <img src="imagens/image2.jpg" width="400"/>
 </p>
 
 <p align="center">
-  <img src="imagens/tela3.png" width="400"/>
+  <img src="imagens/image3.jpg" width="400"/>
 </p>
 
 ## 🛠️ Tecnologias
