@@ -30,12 +30,12 @@
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rilderaraujo&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rilderaraujo&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rilderaraujo&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=60"/>
+  <img height="160em" src="github-readme-stats.vercel.app/api/top-langs/?username=rilderaraujo&layout=compact&theme=tokyonight&cache_seconds=60"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rilderaraujo&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=rilderaraujo&theme=tokyonight&cache_seconds=60"/>
 </p>
 
 ---
