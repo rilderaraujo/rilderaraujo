@@ -29,6 +29,7 @@
 ## 📸 Preview do sistema
 <p align="center">
   <img src="image1.jpg" width="400"/>
+  <img src="image2.jpg" wigth="400"/>
 
 
 ## 🛠️ Tecnologias
